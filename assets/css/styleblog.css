@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+.white-bg {
+    background: #CD1B62;
+    color: #FFFFFF;
+}
+
+.main-content {
+    max-width: 120rem;
+    padding: 10rem 3rem;
+    font-weight: bold;
+}
+
+.section {
+    min-height: 100vh;
+}
